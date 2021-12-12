@@ -12,7 +12,7 @@ The category and subcaterogy column was separated into parent category and subca
 ```
 J column was the unix timestamp and S column was the conversion to mm/dd/yyyy.
 
-![Kickstarter Data](https://github.com/eddieperez1/kickstarter-analysis/blob/main/screenshot%20of%20kickstarter%20data.png)
+![Kickstarter Data](https://github.com/eddieperez1/kickstarter-analysis/blob/main/screenshot_of_kickstarter_data.png)
 
 2. Find the number of outcomes based on launch date and goal amount
 
