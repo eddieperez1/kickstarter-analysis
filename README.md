@@ -27,7 +27,9 @@ Then total projects were calculated then percentage successful, percentage faile
 
 3. Visualize the results
 
+Theater Outcomes Based on Launch Date was visualized in a line chart. 
 ![Theater Outcomes Based on Launch Date](https://github.com/eddieperez1/kickstarter-analysis/blob/main/screenshot%20of%20theater%20outcomes%20by%20launch%20date.png)
+Outcomes vs Goals was visualized in a line chart.
 ![Outcomes vs Goals](https://github.com/eddieperez1/kickstarter-analysis/blob/main/screenshot%20of%20outcomes%20vs%20goals.png)
 ### Challenges
 Challenges faced were verifying the results made sense. In order to make sense of the results, the results need to be checked. Since the data is in another sheet, the data was filtered the same way using filters and then the filtered data was counted. Thus the results can be verified. By verifying the results, errors and mistakes can be eliminated in the analysis.
