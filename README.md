@@ -35,13 +35,13 @@ Challenges faced were verifying the results made sense. In order to make sense o
 ## Results
 ### Conclusions for Outcomes Based on Launch Date
 1. The most successful outcomes launch in May.
-2. The most failed outcomes launched in October.
+2. The most failed outcomes launch in October.
 
 ### Conclusion for Outcomes vs Goals
 1. The most succesful outcomes have a goal less than 5000.
 
 ### Limitations
-Limitations of the data set are currencies conversions and date launched is only recent to 2017. Currency conversion for different countries was not performed on the dataset. It is unknown if a conversion was even completed. Also the dataset's most recent lanuch date is in 2017. It is appropriate to update the dataset to most recent Kickestarter projects since Louis is funding the play "Fever" today. One limitation that is critical to analysis is the small sample size of large goal(greater than 50000) projects. Thus gathering more data of large goal projects is recommended.
+Limitations of the data set are currencies conversions and date launched. Currency conversion for different countries was not performed on the dataset. It is unknown if a conversion was even completed. Also the dataset's most recent lanuch date is in 2017. It is appropriate to update the dataset to most recent Kickestarter projects since Louis is funding the play "Fever" today. One limitation that is critical to analysis is the small sample size of large goal(greater than 50000) projects. Thus gathering more data of large goal projects is recommended.
 
 ### Recommendation
 A recommendation for the results is to have a bar chart of number of successful, failed, and canceled outcomes vs goals. The problem with percentage is that the number of outcomes is unknown. The range 40000 to 44999 is 100% failed even though there is 1 project in that goal range. The range 5000 to 9999 has a lower successful percentage than 35000 to 39999 but range 5000 to 9999 has 93 successful plays and range 35000 to 39999 has 4 successful plays. It is easier to convey that range 5000 to 9999 is more successful with a larger sample size.
